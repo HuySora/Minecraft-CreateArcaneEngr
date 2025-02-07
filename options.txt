@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Immersive Weathering Generated Pack","Supplementaries Generated Pack","file/ldlib","file/multiblocked","quark:emote_resources","file/Slightly-Improved-Font-1.1.5.zip"]
+incompatibleResourcePacks:["file/ldlib","file/multiblocked","quark:emote_resources"]
 lastServer:
 lang:en_us
 soundDevice:
@@ -248,6 +248,7 @@ key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.k
+key_key.nbtedit.shortcut:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.change_hotbar:key.keyboard.z
