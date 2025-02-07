@@ -55,6 +55,7 @@ $folders = @{
             "FancyVideo-API-forge-2.2.0.0.jar",
             "fm_audio_extension_forge_1.1.1_MC_1.18-1.18.2.jar",
             "FpsReducer2-forge-1.18.2-2.0.jar",
+            "keywizard-forge-2.0.1-1.18.2.jar",
             "LegendaryTooltips-1.18.2-1.3.1.jar",
             "MouseTweaks-forge-mc1.18-2.21.jar",
             "oculus-flywheel-compat-1.18.2-0.2.1.jar",
