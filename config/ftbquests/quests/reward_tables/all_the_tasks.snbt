@@ -1,0 +1,51 @@
+{
+	id: "39BE274FBC94994D"
+	order_index: 1
+	title: "All the Tasks"
+	icon: "quests:task"
+	loot_size: 1
+	rewards: [
+		{
+			title: "Mining Task"
+			icon: "quests:mining_task"
+			command: "/loot give @p loot quests:mining_task"
+			type: "command"
+		}
+		{
+			title: "Farming Task"
+			icon: "quests:farming_task"
+			command: "/loot give @p loot quests:farming_task"
+			type: "command"
+		}
+		{
+			title: "Collecting Task"
+			icon: "quests:collecting_task"
+			command: "/loot give @p loot quests:collecting_task"
+			type: "command"
+		}
+		{
+			title: "Deforesting Task"
+			icon: "quests:deforesting_task"
+			command: "/loot give @p loot quests:deforesting_task"
+			type: "command"
+		}
+		{
+			title: "Fishing Task"
+			icon: "quests:fishing_task"
+			command: "/loot give @p loot quests:fishing_task"
+			type: "command"
+		}
+		{
+			title: "Hunting Task"
+			icon: "quests:hunting_task"
+			command: "/loot give @p loot quests:hunting_task"
+			type: "command"
+		}
+		{
+			title: "Slaying Task"
+			icon: "quests:slaying_task"
+			command: "/loot give @p loot quests:slaying_task"
+			type: "command"
+		}
+	]
+}
