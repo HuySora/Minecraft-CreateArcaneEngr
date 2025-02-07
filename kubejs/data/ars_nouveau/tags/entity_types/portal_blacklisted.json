@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:item",
+        "create:carriage_contraption",
+        "create:contraption",
+        "ars_nouveau:spell_proj",
+        "ars_nouveau:starbuncle",
+        "minecraft:minecart",
+        "create:stationary_contraption",
+        "minecraft:hopper_minecart",
+        "minecraft:chest_minecart",
+        "minecraft:furnace_minecart",
+        "supplementaries:dispenser_minecart",
+        "ars_nouveau:starbuncle",
+        "lootr:lootr_minecart",
+        "pneumaticcraft:drone",
+        "pneumaticcraft:amadrone",
+        "pneumaticcraft:logistics_drone",
+        "pneumaticcraft:collector_drone",
+        "pneumaticcraft:harvesting_drone",
+        "pneumaticcraft:guard_drone"
+    ]
+}
