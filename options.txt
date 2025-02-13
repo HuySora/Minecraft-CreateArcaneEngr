@@ -160,6 +160,7 @@ key_key.corpse.death_history:key.keyboard.u
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_key.botania_corporea_request:key.keyboard.c
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
 key_framedblocks.key.update_cull:key.keyboard.f9
