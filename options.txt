@@ -277,6 +277,17 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_key.tconstruct.helmet_interact:key.keyboard.z
 key_key.tconstruct.leggings_interact:key.keyboard.i
+key_key.tacz.inspect.desc:key.keyboard.h
+key_key.tacz.reload.desc:key.keyboard.r
+key_key.tacz.shoot.desc:key.mouse.left
+key_key.tacz.interact.desc:key.keyboard.o
+key_key.tacz.fire_select.desc:key.keyboard.unknown
+key_key.tacz.aim.desc:key.mouse.right
+key_key.tacz.crawl.desc:key.keyboard.c
+key_key.tacz.refit.desc:key.keyboard.z
+key_key.tacz.zoom.desc:key.keyboard.v
+key_key.tacz.melee.desc:key.keyboard.v
+key_key.tacz.open_config.desc:key.keyboard.t:ALT
 key_pneumaticcraft.armor.upgrade.jet_boots.module.builder_mode:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.flight_stabilizers:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.smart_hover:key.keyboard.unknown
