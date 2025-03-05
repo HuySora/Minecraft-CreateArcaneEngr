@@ -287,6 +287,8 @@ key_pneumaticcraft.armor.upgrade.block_tracker.module.fluids:key.keyboard.unknow
 key_pneumaticcraft.armor.upgrade.block_tracker.module.hackables:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker.module.inventories:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker.module.end_portal:key.keyboard.unknown
+key_key.personality.crawl:key.keyboard.c
+key_key.personality.sit:key.keyboard.z
 key_keybind.reliquary.fortune_coin:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
 soundCategory_master:1.0

@@ -57,12 +57,15 @@ $folders = @{
             "FpsReducer2-forge-1.18.2-2.0.jar",
             "keywizard-forge-2.0.1-1.18.2.jar",
             "LegendaryTooltips-1.18.2-1.3.1.jar",
+            "lootbeams-1.18.1-release-july1722.jar",
+            "modnametooltip-1.18.1-1.18.0.jar",
             "MouseTweaks-forge-mc1.18-2.21.jar",
             "oculus-flywheel-compat-1.18.2-0.2.1.jar",
             "oculus-mc1.18.2-1.6.4.jar",
             "rubidium_extras-1.18.2_v1.3.2.jar",
             "rubidium-0.5.6.jar",
-            "simple-rpc-1.18.2-3.2.4.jar"
+            "simple-rpc-1.18.2-3.2.4.jar",
+            "smoothswapping-0.9.1-1.18.2-forge.jar"
         )
     }
     "multiblocked" = @{
