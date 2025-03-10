@@ -89,8 +89,9 @@
 		azalea = true
 		blossom = true
 
-	[wood_type.rocketcraft_simulator_]
-		rubber_tree = true
+	[wood_type.botania]
+		livingwood = true
+		dreamwood = true
 
 [leaves_type]
 
@@ -215,7 +216,4 @@
 
 	[leaves_type.ars_elemental]
 		yellow_archwood = true
-
-	[leaves_type.rocketcraft_simulator_]
-		rubber_tree = true
 
